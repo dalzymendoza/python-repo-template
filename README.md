@@ -3,6 +3,7 @@
 ## Requirements
 
 - Python 3.9.1
+- make
 
 ## Set up
 
@@ -17,3 +18,11 @@
 
 4. Install dependencies  
    `pip install -r requirements.txt`
+
+## Run
+
+`make run`
+
+## Test
+
+`make test`
